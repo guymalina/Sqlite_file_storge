@@ -1,0 +1,8 @@
+Collecting customtkinter
+  Downloading customtkinter-5.2.2-py3-none-any.whl (296 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 296.1/296.1 KB 1.5 MB/s eta 0:00:00
+Collecting darkdetect
+  Downloading darkdetect-0.8.0-py3-none-any.whl (9.0 kB)
+Requirement already satisfied: packaging in /home/guy/py/venv/lib/python3.10/site-packages (from customtkinter) (25.0)
+Installing collected packages: darkdetect, customtkinter
+Successfully installed customtkinter-5.2.2 darkdetect-0.8.0
